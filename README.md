@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Jonathan 👋
+# Howdy! I'm Jonathan
 
 ### Computer Science Student & Software Architect
 
@@ -48,10 +48,10 @@ I am an undergraduate researcher and developer at **UTSA**, deeply focused on bu
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-gladwin-p-6aa5aa30a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:jonathanprabakar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
