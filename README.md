@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Jonathan%20Gladwin%20Prabakar&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=CS%20%40%20UTSA%20%7C%20Cloud%20%26%20AI%2FML%20Engineer%20%7C%20Builder&descAlignY=60&descSize=16&descColor=8b949e" width="100%"/>
+
 
 <!-- TYPING EFFECT -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Turning+data+into+decisions+at+scale.;Building+cloud-native+AI+workflows+on+Azure+%26+TACC.;SaaS+product+builder+%7C+RAG+%7C+Vector+DBs.;3.93+GPA+%E2%80%94+Dean%27s+List+%7C+Honors+College.)](https://git.io/typing-svg)
