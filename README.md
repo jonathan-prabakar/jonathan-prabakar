@@ -60,14 +60,6 @@ My work spans predictive analytics SaaS, containerized research workflows at the
 
 ---
 
-## `> projects --featured`
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| **[Shepherd](https://github.com/YourUsername/shepherd)** | Predictive analytics SaaS that models member attrition for churches and nonprofits. Integrates with Planning Center & Pushpay APIs to surface actionable retention insights. | `Python` `Streamlit` `Azure` `REST APIs` | 🟢 Active |
-| **[PatientRAG](https://github.com/YourUsername/patient-rag)** | Containerized cloud RAG pipeline for healthcare data research, built on TACC's Tapis infrastructure. Enables LLM-powered querying of clinical discharge datasets. | `Python` `Docker` `Tapis` `Vector DB` `Azure AI` | 🔵 Research |
-
-
 
 ## `> experience --highlights`
 
