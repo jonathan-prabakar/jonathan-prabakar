@@ -67,22 +67,7 @@ My work spans predictive analytics SaaS, containerized research workflows at the
 | **[Shepherd](https://github.com/YourUsername/shepherd)** | Predictive analytics SaaS that models member attrition for churches and nonprofits. Integrates with Planning Center & Pushpay APIs to surface actionable retention insights. | `Python` `Streamlit` `Azure` `REST APIs` | 🟢 Active |
 | **[PatientRAG](https://github.com/YourUsername/patient-rag)** | Containerized cloud RAG pipeline for healthcare data research, built on TACC's Tapis infrastructure. Enables LLM-powered querying of clinical discharge datasets. | `Python` `Docker` `Tapis` `Vector DB` `Azure AI` | 🔵 Research |
 
----
 
-## `> github --stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YourGitHubUsername&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=C9D1D9" />
-
-</div>
-
----
 
 ## `> experience --highlights`
 
