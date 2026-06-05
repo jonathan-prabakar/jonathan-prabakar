@@ -94,7 +94,7 @@ I believe the best engineers are multi-dimensional thinkers.
 
 - 🎵 **Multi-instrumentalist** — Piano, guitar, drums, and vocalist. Perform live every Sunday leading worship.
 - 🎛️ **Music Producer** — Write, produce, and record original beats and full tracks.
-- 🎙️ **Podcast Creator** — Founder of *[The Bible and a Brown Perspective](https://open.spotify.com/show/YOURSHOWID)*, available on Spotify & Apple Music. I manage production, social media, marketing, and audience engagement end-to-end.
+- 🎙️ **Podcast Creator** — Founder of *[The Bible and a Brown Perspective]((https://open.spotify.com/show/7xWTMBoaXa5NkwlIdnT0L1))*, available on Spotify & Apple Music. I manage production, social media, marketing, and audience engagement end-to-end.
 
 > *Building things — whether it's a RAG pipeline, a song, or a community — takes the same discipline: iterate, ship, and care about the craft.*
 
@@ -105,7 +105,7 @@ I believe the best engineers are multi-dimensional thinkers.
 **`Let's connect and build something that matters.`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathangladwinprabakar/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@utsa.edu)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanprabakar@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
 
@@ -143,8 +143,8 @@ I am an undergraduate researcher and developer at **UTSA**, deeply focused on bu
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonathan-prabakar&theme=radical&hide_border=true&card_width=400" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=jonathan-prabakar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
